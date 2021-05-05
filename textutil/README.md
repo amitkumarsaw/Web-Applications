@@ -13,7 +13,7 @@
 ![analyze](https://user-images.githubusercontent.com/44708324/117100924-a8937a80-ad92-11eb-9ebf-de0716e5cc4a.PNG)
 
 ### How to run the program :
-1. Copy-Paste the forlder .
+1. Copy all the above files and paste it in a folder `TextUtils`.  .
 2. Open the Command prompt.
 3. Set the path to the `TextUtils` directory.
 4. Run the code using the command `python manage.py runserver`
